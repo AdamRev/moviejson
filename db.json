@@ -1,0 +1,63 @@
+{
+  "movies" : [
+    {
+      "id" : 1,
+      "title" : "Gone With The Wind",
+      "genre" : "Action",
+      "director_id" : 1
+    },
+    {
+      "id" : 2,
+      "title" : "The Wizard of Oz",
+      "genre" : "Action",
+      "director_id" : 1
+    },
+    {
+      "id" : 3,
+      "title" : "Tokyo Story",
+      "genre" : "Action",
+      "director_id" : 2
+    },
+    {
+      "id" : 4,
+      "title" : "Late Spring",
+      "genre" : "Action",
+      "director_id" : 2
+    }
+    
+  ],
+  
+  "actors" : [
+    {
+      "id" : 1,
+      "name" : "Clark Gable"
+    },
+    {
+      "id" : 2,
+      "name" : "Vivien Leigh"
+    },
+    {
+      "id" : 3,
+      "name" : "Judy Garland"
+    },
+    {
+      "id" : 4,
+      "name" : "Chishu Ryu"
+    },
+    {
+      "id" : 5,
+      "name" : "Setsuko Hara"
+    }
+  ],
+  
+  "directors" : [
+    {
+      "id" : 1,
+      "name" : "Victor Fleming"
+    },
+    {
+      "id" : 2,
+      "name" : "Yasujiro Ozu"
+    }
+  ]
+}
